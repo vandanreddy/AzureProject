@@ -1,0 +1,15 @@
+{
+	"name": "datafactory-spotify-mvr",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3c0b48fe-3b94-46e8-a40b-ba1781ad864f",
+		"tenantId": "8a7ef56c-01da-40fa-895f-1b2eb396e87a"
+	}
+}
