@@ -259,7 +259,7 @@
 													{
 														"name": "cdc",
 														"value": {
-															"value": "@activity('max_cdc').output.resultSets[0].rows[0].cdc",
+															"value": "@activity('max_cdc_copy1').output.resultSets[0].rows[0].cdc\n",
 															"type": "Expression"
 														}
 													}
